@@ -1,0 +1,45 @@
+/* ***style for header section*** */
+header li{
+    padding-right: 10px;
+}
+
+/* ***style for banner section*** */
+#banner{
+    margin-top: 120px;
+    
+}
+#banner h1{
+    color: #6e5c83;
+    font-size: 45px;
+    font-weight: 700;
+}
+p{
+    color: #1b1919d5;
+    text-align: justify;
+}
+h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #6e5c83;
+    margin-bottom: 0;
+}
+
+h4{
+    color: #6e5c83;
+    font-weight: bold;
+}
+h5{
+    color: #6e5c83;
+    font-weight: bold;
+ 
+}
+#woman-product{
+    margin-top: 150px;
+}
+#woman-product h3, #men-product h3{
+    color: goldenrod;
+    font-weight: 600;
+}
+#woman-product h5, #men-product h5{
+    
+}
