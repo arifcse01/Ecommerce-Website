@@ -1,6 +1,7 @@
 /* ***style for header section*** */
 header li{
     padding-right: 10px;
+    font-weight: 600;
 }
 
 /* ***style for banner section*** */
@@ -10,8 +11,8 @@ header li{
 }
 #banner h1{
     color: #6e5c83;
-    font-size: 45px;
-    font-weight: 700;
+    
+    font-weight: 600;
 }
 p{
     color: #1b1919d5;
@@ -39,7 +40,4 @@ h5{
 #woman-product h3, #men-product h3{
     color: goldenrod;
     font-weight: 600;
-}
-#woman-product h5, #men-product h5{
-    
 }
